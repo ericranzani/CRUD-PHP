@@ -1,2 +1,2 @@
 # CRUD-PHP
- Projeto em andamento que estou fazendo na faculdade
+ Projeto desenvolvido na faculdade
